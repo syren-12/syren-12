@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=syren-12&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syren-12&show_icons=true&theme=radical)
 ### Creative Skills Display
 ```markdown
 ## 🎨 My Palette
