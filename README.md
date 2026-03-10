@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**syren-12/syren-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creative Skills Display
+```markdown
+## 🎨 My Palette
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 🌸 Creating | 🌿 Growing | ✨ Exploring |
+|:----------:|:----------:|:------------:|
+| React Apps | Python Skills | Web3 |
+| UI/UX Design | Open Source | Creative Coding |
+| Digital Art | Communities | New Tech |
+
+</div>
