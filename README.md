@@ -24,7 +24,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
- │  NAME     : Shreya Chatterjee                      │
+│  NAME     : Shreya Chatterjee                       │
 │  CLASS    : Computer Science Student                │
 │  LEVEL    : Undergraduate                           │
 │  LOCATION : Earth 🌍                                │
