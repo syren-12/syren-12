@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PIXEL CHARACTER ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=1000&color=57F287&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+World!+%F0%9F%91%BE;I'm+[SHREYA CHATTERJEE]+%E2%9C%A8;CS+Student+%7C+Builder+%7C+Dreamer;Welcome+to+my+digital+space!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=1000&color=57F287&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+World!+%F0%9F%91%BE;I'm+[SHREYA]+%E2%9C%A8;CS+Student+%7C+Builder+%7C+Dreamer;Welcome+to+my+digital+space!" alt="Typing SVG" />
 
 <!-- PIXEL ART CHARACTER (walking sprite via SVG) -->
 <br/>
